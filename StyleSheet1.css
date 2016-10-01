@@ -1,0 +1,31 @@
+﻿body {
+    background-color:rgb(200,200,200);
+}
+
+p{
+    font-size: 24pt;
+    color:indianred;
+    text-decoration:wavy;
+    
+}
+
+div{
+    font-size:18pt;
+    border: 1px solid red;       /*Added and ugly border around this div*/
+    padding: 30px;
+    margin: 50px;
+}
+
+#importantHeading{
+    color:darkgreen;
+}
+
+#p01{
+    background-color:blue;
+}
+
+.red{
+    color:red;
+}
+
+
